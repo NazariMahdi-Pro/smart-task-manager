@@ -76,7 +76,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 **Mahdi Nazari**  
 Email: nazarimahdi.pro@gmail.com  
-GitHub: [Your GitHub Profile URL]
+GitHub: https://github.com/NazariMahdi-Pro
 
 ## Acknowledgments
 
@@ -84,5 +84,6 @@ GitHub: [Your GitHub Profile URL]
 - Inspired by the need for simple yet powerful task management tools
 
 ---
+
 
 **Note**: This project was developed as a portfolio piece to demonstrate Python programming skills and clean code practices.
